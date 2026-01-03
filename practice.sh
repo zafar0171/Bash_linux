@@ -4,7 +4,7 @@
 #echo test successfull
 
 
-
+#grep "failed" auth.log | cut -d" " -f11 | sort |uniq -c | sort -nr
 # for i in {1..10}; do
 #     echo "welcome $i times"
 # done
