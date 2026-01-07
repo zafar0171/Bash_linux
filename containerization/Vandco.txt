@@ -1,0 +1,27 @@
+
+
+import subprocess
+
+
+subprocess.run(["docker","run","-it","python:3.9","python"])
+
+
+#Dockerfile
+
+FROM python:3.9-slim
+WORKDIR /app
+COPY . .
+RUN pip install -r requirements.txt
+CMD ["python", "app.py"]
+
+
+docker build -t myapp:latest .
+
+docker run -dp 3000:3000 myapp
+
+
+Orchestration system: allows automated deployment, scaling and mangement of containers.
+
+
+import kubernetes
+

@@ -1,0 +1,28 @@
+
+
+#Virtual MAchines
+
+* Virtualization Abstraction
+* Solutions with Virtual MAchines
+
+
+Key terms :
+
+* Container - allow to build cloud native applications
+* VMs -- Used for monolithic applications
+
+
+Containers V/S VMs
+
+conatiner                                     VMs
+Application                                     application,
+Runtime (subset of OS)                          Guest OS,
+Host                                            Host,
+Leightweight,                                   Monolithic
+Smaller,
+Devops compliant
+
+
+SPOT INSTANCE
+
+

@@ -1,0 +1,22 @@
+#!/usr/bin/bash
+
+
+Micrservice Architecture
+
+* Best Practices of Devops to Micrservice
+* Different types of microservice Architecture
+    --- can run code without provisioning servers , --serverless --eg :- AWS LAmbda, Google Cloud Function, Azure Functions -- which can map to different event , cloud native they Architecture
+
+
+
+# Small,
+Autonomous,
+Speciailized,
+
+
+They perform specialised tasks.
+
+speed 
+Simplicity
+Maps Logic
+Reliability

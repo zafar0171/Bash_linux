@@ -1,0 +1,20 @@
+
+
+Contanerization
+Virtualization
+Operations
+
+
+1) Virtualization and container technology
+2) Effective and efficeinet solutions with microservices
+3) evaluate effective technical operations straeigies using
+
+# Most data science needs cloud
+# Jobs oportunity in cloud
+# Build Working Systems
+
+#Lab Onboarding
+
+AWS
+GCP
+AZURE
