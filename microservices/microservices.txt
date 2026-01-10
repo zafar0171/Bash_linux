@@ -20,3 +20,14 @@ speed
 Simplicity
 Maps Logic
 Reliability
+
+
+#CI Microservices
+
+test
+lint
+Format
+
+Makefile crrseponds to test, lint. Format
+
+
